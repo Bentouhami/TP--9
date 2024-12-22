@@ -1,0 +1,201 @@
+﻿Client ID;Age;Genre;Localisation;Categories Produit;Montant Total d'Achat (U);Nombre Achat (par mois);Inscription (Annees);Abonnement
+1;48;Femme;Urbain;Sport;802;4;8;Premium
+2;24;Homme;Rural;Jardin;1681;1;8;Premium
+3;33;Femme;Urbain;Maison et Décoration;1736;10;4;Basique
+4;22;Femme;Suburbain;Mode;951;6;8;Premium
+5;34;Homme;Rural;Électronique;958;2;6;Premium
+6;24;Femme;Suburbain;Sport;893;6;1;Basique
+7;52;Homme;Urbain;Beauté;1845;9;2;Basique
+8;37;Homme;Rural;Mode;839;5;9;Premium
+9;51;Homme;Rural;Mode;477;4;4;Basique
+10;39;Femme;Rural;Beauté;1814;5;3;Basique
+11;33;Femme;Rural;Électronique;744;9;7;Premium
+12;38;Homme;Urbain;Maison et Décoration;477;5;8;Premium
+13;40;Femme;Urbain;Jardin;1841;4;10;Basique
+14;32;Homme;Urbain;Sport;431;8;10;Basique
+15;22;Femme;Suburbain;Jardin;1340;6;9;Premium
+16;27;Femme;Suburbain;Électronique;702;3;6;Basique
+17;51;Femme;Suburbain;Jardin;940;3;4;Premium
+18;58;Homme;Suburbain;Sport;173;2;9;Basique
+19;37;Femme;Rural;Sport;1645;2;5;Premium
+20;43;Femme;Suburbain;Maison et Décoration;469;3;6;Premium
+21;26;Homme;Rural;Électronique;1959;8;3;Premium
+22;52;Homme;Urbain;Maison et Décoration;1468;1;2;Premium
+23;50;Homme;Urbain;Maison et Décoration;1455;5;10;Basique
+24;33;Homme;Urbain;Électronique;1870;3;6;Basique
+25;46;Femme;Rural;Sport;136;1;8;Premium
+26;51;Femme;Suburbain;Sport;308;5;7;Premium
+27;32;Homme;Suburbain;Électronique;1231;5;5;Premium
+28;56;Femme;Urbain;Mode;146;8;9;Premium
+29;45;Femme;Rural;Électronique;973;6;1;Basique
+30;56;Homme;Rural;Beauté;1536;10;6;Premium
+31;19;Femme;Rural;Mode;1113;1;6;Premium
+32;26;Homme;Urbain;Sport;399;6;10;Premium
+33;30;Homme;Rural;Mode;1398;3;1;Basique
+34;24;Homme;Urbain;Jardin;650;1;1;Premium
+35;28;Homme;Suburbain;Maison et Décoration;1774;2;4;Premium
+36;34;Femme;Suburbain;Jardin;354;6;7;Basique
+37;47;Femme;Urbain;Sport;108;3;10;Basique
+38;49;Homme;Urbain;Maison et Décoration;1326;2;5;Premium
+39;34;Homme;Urbain;Mode;1141;8;7;Premium
+40;25;Homme;Rural;Jardin;1471;3;3;Basique
+41;58;Homme;Suburbain;Mode;949;3;2;Premium
+42;32;Homme;Urbain;Mode;1670;5;10;Basique
+43;57;Homme;Suburbain;Beauté;1090;7;10;Basique
+44;22;Homme;Urbain;Jardin;746;2;5;Premium
+45;48;Femme;Urbain;Mode;435;3;2;Basique
+46;56;Homme;Suburbain;Beauté;1909;8;2;Premium
+47;50;Homme;Rural;Sport;1250;5;2;Basique
+48;20;Femme;Urbain;Mode;514;1;10;Premium
+49;45;Femme;Suburbain;Mode;880;9;10;Basique
+50;34;Femme;Rural;Jardin;1077;8;8;Premium
+51;21;Homme;Urbain;Électronique;1754;7;6;Basique
+52;36;Homme;Urbain;Jardin;255;6;6;Basique
+53;51;Femme;Urbain;Mode;387;2;7;Premium
+54;51;Homme;Rural;Jardin;1908;6;3;Premium
+55;31;Femme;Rural;Mode;1164;1;2;Basique
+56;52;Homme;Urbain;Beauté;1758;10;8;Basique
+57;44;Homme;Suburbain;Beauté;648;7;4;Basique
+58;31;Femme;Rural;Beauté;479;4;3;Basique
+59;31;Homme;Rural;Électronique;917;1;2;Basique
+60;24;Homme;Rural;Jardin;1721;8;3;Premium
+61;40;Homme;Suburbain;Sport;775;7;1;Basique
+62;40;Femme;Rural;Maison et Décoration;1181;5;7;Premium
+63;47;Homme;Suburbain;Maison et Décoration;809;4;6;Premium
+64;56;Femme;Rural;Sport;995;1;8;Premium
+65;44;Homme;Urbain;Sport;213;9;1;Basique
+66;52;Femme;Rural;Jardin;1653;5;8;Premium
+67;26;Homme;Rural;Beauté;694;1;5;Basique
+68;31;Homme;Suburbain;Électronique;630;4;9;Basique
+69;42;Homme;Urbain;Beauté;220;2;5;Premium
+70;46;Homme;Suburbain;Maison et Décoration;961;10;5;Basique
+71;33;Femme;Urbain;Électronique;795;3;3;Premium
+72;29;Femme;Rural;Jardin;829;2;6;Basique
+73;27;Femme;Suburbain;Sport;1262;4;7;Premium
+74;38;Femme;Urbain;Mode;867;7;6;Premium
+75;42;Femme;Suburbain;Mode;570;9;8;Basique
+76;41;Homme;Rural;Mode;1627;9;7;Basique
+77;32;Homme;Rural;Beauté;468;5;1;Basique
+78;43;Femme;Suburbain;Maison et Décoration;428;9;10;Premium
+79;28;Femme;Rural;Maison et Décoration;1907;3;6;Basique
+80;33;Femme;Rural;Mode;1571;6;6;Basique
+81;18;Femme;Suburbain;Électronique;1763;7;7;Basique
+82;32;Homme;Urbain;Électronique;1044;6;2;Basique
+83;22;Femme;Suburbain;Maison et Décoration;1019;3;10;Premium
+84;27;Homme;Urbain;Électronique;904;2;1;Premium
+85;53;Homme;Urbain;Mode;635;5;10;Premium
+86;33;Homme;Suburbain;Sport;1671;7;2;Premium
+87;28;Femme;Suburbain;Beauté;414;1;4;Premium
+88;56;Femme;Urbain;Jardin;521;3;7;Premium
+89;32;Femme;Urbain;Électronique;206;1;7;Basique
+90;26;Femme;Rural;Beauté;411;9;1;Basique
+91;35;Homme;Rural;Jardin;1610;5;2;Basique
+92;26;Homme;Rural;Jardin;497;4;7;Basique
+93;26;Homme;Urbain;Sport;1467;8;6;Premium
+94;58;Homme;Urbain;Maison et Décoration;660;4;10;Basique
+95;42;Femme;Suburbain;Maison et Décoration;842;8;8;Premium
+96;41;Femme;Urbain;Sport;176;9;5;Premium
+97;38;Femme;Suburbain;Mode;1818;5;10;Basique
+98;48;Homme;Suburbain;Maison et Décoration;254;6;2;Basique
+99;49;Homme;Rural;Mode;881;3;3;Premium
+100;52;Homme;Suburbain;Sport;667;9;10;Basique
+101;57;Femme;Rural;Jardin;1575;8;4;Premium
+102;32;Femme;Suburbain;Électronique;335;2;2;Premium
+103;29;Femme;Rural;Électronique;1853;7;9;Basique
+104;51;Homme;Suburbain;Électronique;1976;1;6;Premium
+105;24;Homme;Rural;Maison et Décoration;1484;4;8;Premium
+106;18;Homme;Urbain;Électronique;981;8;3;Basique
+107;33;Femme;Suburbain;Maison et Décoration;1822;9;2;Premium
+108;39;Homme;Rural;Jardin;863;7;6;Premium
+109;22;Femme;Suburbain;Maison et Décoration;1066;8;8;Basique
+110;25;Femme;Suburbain;Sport;1549;3;6;Basique
+111;54;Femme;Rural;Sport;854;2;10;Premium
+112;29;Femme;Suburbain;Mode;822;10;6;Basique
+113;34;Femme;Suburbain;Électronique;1030;4;7;Premium
+114;53;Homme;Urbain;Électronique;322;5;3;Basique
+115;53;Homme;Suburbain;Maison et Décoration;1840;1;5;Premium
+116;40;Femme;Urbain;Mode;1808;7;3;Premium
+117;22;Homme;Urbain;Jardin;795;6;7;Basique
+118;24;Femme;Suburbain;Sport;1355;1;9;Basique
+119;53;Homme;Rural;Jardin;1888;10;2;Premium
+120;19;Homme;Rural;Sport;156;7;4;Premium
+121;58;Homme;Suburbain;Maison et Décoration;477;9;7;Premium
+122;33;Femme;Suburbain;Beauté;763;4;10;Basique
+123;41;Femme;Urbain;Mode;1031;4;5;Premium
+124;18;Femme;Urbain;Électronique;818;1;2;Premium
+125;33;Femme;Suburbain;Maison et Décoration;1281;1;1;Basique
+126;32;Homme;Urbain;Maison et Décoration;106;6;6;Premium
+127;29;Homme;Suburbain;Maison et Décoration;990;5;6;Premium
+128;33;Femme;Urbain;Mode;305;1;6;Premium
+129;28;Femme;Rural;Maison et Décoration;1342;8;1;Basique
+130;30;Femme;Urbain;Jardin;709;1;5;Premium
+131;25;Homme;Rural;Mode;1183;6;3;Basique
+132;55;Homme;Rural;Sport;770;2;1;Premium
+133;54;Homme;Rural;Sport;1449;1;7;Premium
+134;18;Homme;Suburbain;Mode;1615;9;5;Basique
+135;44;Homme;Rural;Électronique;1828;6;7;Premium
+136;40;Homme;Suburbain;Mode;1195;7;6;Premium
+137;21;Femme;Urbain;Électronique;1990;10;1;Premium
+138;37;Femme;Urbain;Maison et Décoration;586;1;6;Premium
+139;55;Femme;Suburbain;Beauté;1507;5;2;Basique
+140;22;Homme;Suburbain;Jardin;316;2;3;Premium
+141;48;Homme;Rural;Maison et Décoration;1837;4;10;Basique
+142;30;Femme;Urbain;Maison et Décoration;713;6;7;Premium
+143;21;Femme;Suburbain;Beauté;1753;6;5;Basique
+144;24;Homme;Rural;Mode;1145;2;9;Basique
+145;19;Femme;Rural;Sport;578;7;5;Basique
+146;19;Homme;Rural;Sport;624;5;1;Premium
+147;20;Homme;Rural;Électronique;1444;6;3;Premium
+148;38;Homme;Urbain;Électronique;1600;9;10;Premium
+149;43;Femme;Urbain;Mode;1139;10;5;Premium
+150;48;Homme;Rural;Jardin;1357;3;2;Basique
+151;27;Homme;Suburbain;Électronique;1078;5;9;Premium
+152;32;Homme;Urbain;Beauté;1127;6;4;Basique
+153;32;Homme;Urbain;Électronique;216;2;1;Premium
+154;50;Femme;Urbain;Électronique;1005;5;8;Premium
+155;50;Femme;Urbain;Jardin;1236;9;7;Premium
+156;22;Femme;Rural;Beauté;1787;5;6;Basique
+157;29;Homme;Suburbain;Beauté;645;4;7;Basique
+158;54;Femme;Suburbain;Jardin;1824;4;8;Basique
+159;32;Homme;Rural;Beauté;519;4;1;Basique
+160;35;Homme;Urbain;Sport;761;9;7;Premium
+161;40;Homme;Rural;Sport;885;7;2;Basique
+162;27;Homme;Rural;Sport;193;7;6;Basique
+163;19;Femme;Rural;Mode;1570;5;5;Premium
+164;33;Homme;Suburbain;Jardin;731;1;3;Premium
+165;43;Femme;Urbain;Électronique;565;5;7;Premium
+166;44;Homme;Rural;Beauté;986;2;9;Premium
+167;57;Homme;Urbain;Maison et Décoration;688;8;10;Basique
+168;28;Femme;Urbain;Électronique;1900;6;2;Basique
+169;58;Homme;Rural;Mode;1774;7;7;Basique
+170;28;Homme;Suburbain;Mode;1078;5;2;Basique
+171;37;Femme;Urbain;Jardin;516;1;6;Basique
+172;35;Femme;Rural;Jardin;476;3;10;Basique
+173;48;Homme;Urbain;Mode;799;1;10;Premium
+174;52;Homme;Urbain;Maison et Décoration;185;4;5;Basique
+175;26;Femme;Rural;Maison et Décoration;860;8;8;Basique
+176;43;Homme;Suburbain;Beauté;951;7;4;Basique
+177;19;Homme;Rural;Mode;1598;8;7;Premium
+178;35;Femme;Urbain;Électronique;437;1;3;Premium
+179;27;Femme;Suburbain;Mode;1099;10;6;Premium
+180;38;Femme;Suburbain;Électronique;1236;8;8;Basique
+181;30;Femme;Suburbain;Jardin;342;9;3;Basique
+182;52;Femme;Rural;Maison et Décoration;874;1;8;Premium
+183;55;Homme;Urbain;Électronique;1880;5;4;Basique
+184;33;Femme;Rural;Jardin;308;3;7;Basique
+185;23;Femme;Urbain;Mode;1910;10;7;Basique
+186;35;Homme;Urbain;Sport;1845;4;9;Basique
+187;52;Homme;Urbain;Électronique;469;1;10;Basique
+188;58;Femme;Suburbain;Maison et Décoration;416;1;7;Basique
+189;35;Femme;Urbain;Maison et Décoration;299;2;4;Premium
+190;43;Femme;Suburbain;Mode;1652;3;3;Premium
+191;53;Homme;Suburbain;Beauté;121;7;4;Basique
+192;20;Femme;Suburbain;Sport;272;2;1;Basique
+193;39;Homme;Urbain;Électronique;773;10;10;Basique
+194;40;Femme;Rural;Sport;465;6;9;Premium
+195;28;Femme;Rural;Électronique;1725;7;1;Basique
+196;37;Femme;Urbain;Beauté;1279;10;8;Premium
+197;29;Femme;Suburbain;Jardin;1727;10;10;Basique
+198;19;Homme;Suburbain;Jardin;278;7;1;Premium
+199;43;Homme;Rural;Mode;1924;3;2;Basique
+200;56;Femme;Suburbain;Beauté;199;7;5;Basique
